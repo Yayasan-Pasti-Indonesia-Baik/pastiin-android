@@ -2,6 +2,17 @@
 
 pastiin  mobile app
 
+Develop Using Flutter
+
+Implementation DDD (Domain Driven Design) architecture for develop pastiin mobile app.
+
+General library for flutter
+-Chopper
+-BLOC
+-GetX
+-FpDart
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
